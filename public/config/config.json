@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xE214c49f06b59e7BdEeb0A55bf781B5C5AE8938A",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xE214c49f06b59e7BdEeb0A55bf781B5C5AE8938A",
+  "NETWORK": {
+    "NAME": "Rinkerby",
+    "SYMBOL": "ETH",
+    "ID": 4
+  },
+  "NFT_NAME": "AAA Pass Test",
+  "SYMBOL": "AAATEST",
+  "MAX_SUPPLY": 10,
+  "WEI_COST": 1000000000000000,
+  "DISPLAY_COST": 0.001,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/ekd-aaa-pass-test",
+  "SHOW_BACKGROUND": false
+}
